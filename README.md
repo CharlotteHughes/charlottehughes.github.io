@@ -1,2 +1,2 @@
-## My artwork
+# My artwork
 ### Scooby Doo
